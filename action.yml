@@ -1,7 +1,7 @@
 ---
 name: DNSControl Action
 description: Deploy your DNS configuration using DNSControl.
-author: is-not.a.dev <admin@stefdp.lol>
+author: is-not-a.pro <admin@stefdp.lol>
 branding:
   icon: cloud
   color: blue
